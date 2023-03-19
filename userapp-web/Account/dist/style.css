@@ -220,7 +220,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Set the container height to fill the entire viewport */
+  height: 100vh;
 }
 
 
@@ -263,4 +263,40 @@ button {
   border-radius: 5px;
   font-size: 14px;
   white-space: nowrap;
+}
+
+.speech-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
+
+.playbtn{
+    padding: 2em 2em;
+    margin: 10px;
+  }
+
+img .recording{
+  padding: 2em 1em;
+  border: none;
+  border-radius: 10px !important;
+  margin: 10px;
+
+}
+
+.button-container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sendbtn{
+  background-color: #592BB6;
+  border-radius: 12px;
+  color: #fff;
+  font-size: 16px;
+  align-items: center;
+  margin-bottom: 50px;
+  text-decoration: white;
 }

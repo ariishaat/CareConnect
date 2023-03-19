@@ -4,8 +4,8 @@
     font-family: 'poppins',sans-serif;
 }
 body{
-    height: calc(100vh - 7em);
-    padding: 3em;
+    height: calc(100vh - 8em);
+    padding: 5em;
     color: rgba(255,255,255,.75);
     font-family: 'Anonymous Pro', monospace;   
   }
@@ -27,10 +27,10 @@ body{
 .line-1{
     position: relative;
     top: 40%;  
-    width: 100%;
+    width: 20em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 1.25em;
+    font-size: 180%;
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
@@ -44,7 +44,7 @@ body{
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 100%;}
+  to{width: 24em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,.75);}
@@ -124,7 +124,6 @@ top: -5px;
     height: 40px;
     border-radius: 40px;
     background: #865EE4;
-    text-decoration: none;
     border: none;
     outline: none;
     cursor: pointer;

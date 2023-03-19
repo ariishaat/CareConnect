@@ -28,7 +28,7 @@ function SideBar ({ menu }) {
         <nav className='sidebar'>
             <div className='sidebar-container'>
                 <div className='sidebar-logo-container' style={{"text-align": "center"}}>
-                    <h2>CareConnect</h2>
+                    <h1 style={{"color": "#FFFFFF"}}><b>CareConnect</b></h1>
                 </div>
 
                 <div className='sidebar-container'>

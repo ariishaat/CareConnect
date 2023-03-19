@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
 body {
   background: #906ADC !important;
+  font-family: 'Anonymous Pro', monospace; 
 }
 
 [data-target="#mainMenu"] {

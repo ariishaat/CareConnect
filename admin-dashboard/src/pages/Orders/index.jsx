@@ -118,7 +118,7 @@ function Orders () {
                                         </div>
                                     </td>
                                     <td><span>{order.date}</span></td>
-                                    <td><span>{order.date}</span></td>
+                                    <td><span>{order.date_visit}</span></td>
                                 </tr>
                             ))}
                         </tbody>

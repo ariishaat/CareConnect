@@ -14,7 +14,7 @@ const sidebar_menu = [
     {
         id: 2,
         icon: GroupIcon,
-        path: '/orders',
+        path: '/patients',
         title: 'Patients',
     },
     {

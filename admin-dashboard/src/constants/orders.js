@@ -1,7 +1,8 @@
 const all_orders = [
     {
         id: "#1236",
-        date: "1 Nov, 10:20 AM",
+        date: "5 Mar, 10:20 AM",
+        date_visit: "3 Mar, 11:200 AM",
         email: "michael.lawson@reqres.in",
         first_name: "Michael",
         last_name: "Lawson",
@@ -13,7 +14,8 @@ const all_orders = [
     },
     {
         id: "#1235",
-        date: "1 Nov, 10:20 AM",
+        date: "17 Mar, 12:00 PM",
+        date_visit: "14 Mar, 11:00 AM",
         email: "lindsay.ferguson@reqres.in",
         first_name: "Lindsay",
         last_name: "Ferguson",
@@ -25,7 +27,8 @@ const all_orders = [
     },
     {
         id: "#1234",
-        date: "1 Nov, 10:20 AM",
+        date: "16 Mar, 1:00 PM",
+        date_visit: "12 Mar, 10:00 AM",
         email: "tobias.funke@reqres.in",
         first_name: "Tobias",
         last_name: "Funke",
@@ -37,7 +40,8 @@ const all_orders = [
     },
     {
         id: "#1233",
-        date: "1 Nov, 10:20 AM",
+        date: "10 Mar, 2:20 PM",
+        date_visit: "10 Mar, 12:00 PM",
         email: "byron.fields@reqres.in",
         first_name: "Byron",
         last_name: "Fields",
@@ -49,7 +53,8 @@ const all_orders = [
     },
     {
         id: "#1232",
-        date: "1 Nov, 10:20 AM",
+        date: "17 Mar, 8:30 AM",
+        date_visit: "8 Mar, 11:00 PM",
         email: "george.edwards@reqres.in",
         first_name: "George",
         last_name: "Edwards",
@@ -61,7 +66,8 @@ const all_orders = [
     },
     {
         id: "#1231",
-        date: "1 Nov, 10:20 AM",
+        date: "18 Mar, 9:00 AM",
+        date_visit: "12 Mar, 3:00 PM",
         email: "rachel.howell@reqres.in",
         first_name: "Rachel",
         last_name: "Howell",
@@ -73,7 +79,8 @@ const all_orders = [
     },
     {
         id: "#1236",
-        date: "1 Nov, 10:20 AM",
+        date: "14 Mar, 10:20 AM",
+        date_visit: "17 Mar, 11: 00 AM",
         email: "michael.lawson@reqres.in",
         first_name: "Michael",
         last_name: "Lawson",
@@ -85,7 +92,8 @@ const all_orders = [
     },
     {
         id: "#1235",
-        date: "1 Nov, 10:20 AM",
+        date: "1 Mar, 10:00 AM",
+        date_visit: "9 Mar, 3: 00 PM",
         email: "lindsay.ferguson@reqres.in",
         first_name: "Lindsay",
         last_name: "Ferguson",
@@ -97,7 +105,8 @@ const all_orders = [
     },
     {
         id: "#1234",
-        date: "1 Nov, 10:20 AM",
+        date: "3 Mar, 10:20 AM",
+        date_visit: "7 Mar, 11:200 AM",
         email: "tobias.funke@reqres.in",
         first_name: "Tobias",
         last_name: "Funke",
@@ -109,7 +118,8 @@ const all_orders = [
     },
     {
         id: "#1233",
-        date: "1 Nov, 10:20 AM",
+        date: "8 Mar, 10:20 AM",
+        date_visit: "10 Mar, 11:200 AM",
         email: "byron.fields@reqres.in",
         first_name: "Byron",
         last_name: "Fields",
